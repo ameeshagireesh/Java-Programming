@@ -8,15 +8,21 @@ This repository contains all the codes I've used for my java lab assignments, as
 ## I. Basic Programming
 *** 
 
-**1. Read the radius and print the area of a circle**
+**1. Read the radius and print the area of a circle**  
+[solution](basic_programs/Radius.java)
 
-**2. Read the number and check whether it is divisible by 3 and 5**
+**2. Read the number and check whether it is divisible by 3 and 5**  
+[solution](basic_programs/Divisible.java)
 
-**3. Display Subject Name based on room number. If the user enters 604 then display Java Programming. If the user enters 605 then display Python programming for any other input display Invalid input to the user**
+**3. Display Subject Name based on room number. If the user enters 604 then display Java Programming. If the user enters 605 then display Python programming for any other input display Invalid input to the user**  
+[solution](basic_programs/Room.java)
 
-**4. Print the sum of the series 1 +2 +3 up to n terms**
+**4. Print the sum of the series 1 +2 +3 up to n terms**  
+[solution](basic_programs/Sum.java)
 
-**5. Print the multiplication table by getting the n from the user.**
+**5. Print the multiplication table by getting the n from the user.**  
+[solution](basic_programs/Multiplication.java)
+
 
 **6. Provide the option of adding two numbers to the user until the user wants to exit.**
 
