@@ -87,10 +87,13 @@ __2. In a school, students of all classes from std I to X appear for the MathPre
 ## V. Abstract Classes and Interfaces
 ***
 **1. Write an abstract class special with an abstract method double Process (double P,double R). Create a subclass Discount and implement the Process() method with the following formula: net=P- P*R/100. Return the Process() method with the following formula: total=P+P*R/100. Return the total.**  
+[solution](abstract_interface/Process.java)
 
 **2. Write an interface called Numbers, with a method int Process(int x,int y). Write a class called Sum, in with the method Process finds the sum of two numbers and returns an int value. Write another class called Average, in which the process method finds the average of the two numbers and returns an int.**  
+[solution](abstract_interface/Average.java)
 
-**3. Write an interface called Exam with a method Pass ( ) that returns the total marks. Write another interface called Classify with a method Average (int total) which returns a string. Write a Class called Result which implements both Exam and Classify. The Pass method should get the marks from the user and finds the total marks and return. The Division method calculate the average marks and return “First” if the average is 60 or more, “SECOND” when average is 50 or more but below 60, “NO DIVISION” when average is less than 50.** 
+**3. Write an interface called Exam with a method Pass ( ) that returns the total marks. Write another interface called Classify with a method Average (int total) which returns a string. Write a Class called Result which implements both Exam and Classify. The Pass method should get the marks from the user and finds the total marks and return. The Division method calculate the average marks and return “First” if the average is 60 or more, “SECOND” when average is 50 or more but below 60, “NO DIVISION” when average is less than 50.**  
+[solution](abstract_interface/ExamResult.java)
 
 ## VI. Packages
 ***
